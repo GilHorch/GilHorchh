@@ -1,8 +1,3 @@
-# GilHorchh
+# Gilmar horchulhak
 
-
-
-Gilmar
-
-
-
+Olá, me chamo Gilmar e sou iniciante em programação.😎�🎶
